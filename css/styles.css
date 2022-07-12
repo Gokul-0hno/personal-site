@@ -3,10 +3,10 @@ body{
   }
 
   hr{
-    width: 3%;
     border-style: dotted none none none;
     border-width: 5px;
     border-color: #E8E8A6; 
+    width: 3%;
   }
 
   h1{
