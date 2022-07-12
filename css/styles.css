@@ -1,0 +1,23 @@
+body{
+    background-color: #C1DEAE;
+  }
+
+  hr{
+    width: 3%;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: #E8E8A6; 
+  }
+
+  h1{
+    color: #219F94;
+  }
+
+  h3{
+    color: #219F94;
+  }
+
+  p{
+    text-align: justify;
+    text-indent: 30px;
+  }
